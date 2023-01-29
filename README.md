@@ -1,4 +1,4 @@
 # PHP_Slider
-© Abdullah ben amer
+© Abdullah Ben Amer
 benamer@gmail.com
 WA: +905349216965
